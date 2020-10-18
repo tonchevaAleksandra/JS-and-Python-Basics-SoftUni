@@ -3,4 +3,3 @@ function neededMoney(countDogs,countOtherAnimals){
     let priceForOtherAnimals=4*Number(countOtherAnimals);
     console.log(`${priceDogs+priceForOtherAnimals}lv.`);
 }
-neededMoney(5,4);

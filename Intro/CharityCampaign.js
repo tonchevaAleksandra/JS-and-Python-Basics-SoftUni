@@ -6,4 +6,4 @@ function campaign(countDays, countcooks, countCakes, countGoffres, countPanCakes
     console.log(totalSum.toFixed(2));
 
 }
-campaign(23,8,14,30,16);
+

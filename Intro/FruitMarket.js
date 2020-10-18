@@ -6,4 +6,3 @@ function costs(strawberryPrice, quantityBananas, quantityOranges,quantityRaspber
      *quantityStrawberries+quantityOranges*priceOranges+priceBananas*quantityBananas;
      console.log(totalPrice);
 }
-costs(48,10,3.3,6.5,1.7);

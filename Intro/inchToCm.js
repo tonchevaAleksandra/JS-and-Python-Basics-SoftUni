@@ -4,4 +4,3 @@ function inchestocentimeters(input){
     console.log(centimeters);
     
 }
-inchestocentimeters(5);

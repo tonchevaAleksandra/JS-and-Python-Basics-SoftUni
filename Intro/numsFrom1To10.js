@@ -4,4 +4,3 @@ function numsFrom1To10(){
        
    }
 }
-numsFrom1To10();
